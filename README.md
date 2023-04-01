@@ -1,2 +1,2 @@
 # SpringBootTest
-This repository contains SPringBoot Test APIs
+This repository contains SpringBoot Test APIs
